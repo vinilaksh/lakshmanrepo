@@ -1,0 +1,7 @@
+ven if on-prem deployment is a more maintenance-heavy and time-consuming deployment model than deployment via the cloud. We’re here to meet your needs, and so long as you understand what’s involved, we’re here to help.
+
+
+If on-prem is what you’re looking for, we’re here to help you every step of the way, even if on-prem deployment is a more maintenance-heavy and time-consuming deployment model than deployment via the cloud. We’re here to meet your needs, and so long as you understand what’s involved, we’re here to help.
+
+
+https://app47.com/2014/01/14/software-deployment-models-part-ii-on-prem/
